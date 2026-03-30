@@ -70,3 +70,7 @@ CSV çıktı dizinini belirleyin
 
 İşlemi Başlat butonuna tıklayın
 
+![App Screenshot](https://yavuzselimkilic.com/araclar/XML2Luca/EkranGoruntusu/1.png)
+
+![App Screenshot](https://yavuzselimkilic.com/araclar/XML2Luca/EkranGoruntusu/2.png)
+
